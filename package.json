@@ -1,0 +1,38 @@
+{
+  "name": "myDash",
+  "version": "1.0.0",
+  "description": "My super Nuxt.js project",
+  "author": "logicaltrojan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxt/babel-preset-app": "^2.12.0",
+    "@nuxtjs/axios": "^5.9.5",
+    "ag-grid-community": "^23.0.1",
+    "ag-grid-enterprise": "^23.0.1",
+    "ag-grid-vue": "^23.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "nuxt": "^2.0.0",
+    "oracledb": "^4.2.0",
+    "sql-formatter": "^2.3.3",
+    "vue-property-decorator": "^8.4.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}
