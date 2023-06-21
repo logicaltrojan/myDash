@@ -23,7 +23,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "oracledb": "^4.2.0",
     "sql-formatter": "^2.3.3",
     "vue-property-decorator": "^8.4.1"
